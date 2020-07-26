@@ -1,0 +1,10 @@
+1. Pick a stock of your choice which is being traded in the derivative market.
+2. Look at the stock's and option's history on YAHOO Finance.
+3. Use last one year data to estimate the annual volatility.
+4. Use 10 years' US treasury rate as the rate of interest.
+5. Now fix the strike price and time of maturity to evaluate the call/ put option price by using one step Binomial model
+6. Evaluate the option price by using Black Scholes Formula
+7.  Increase the number of steps in Binomial model to verify that the price converges to 6.
+8. Draw the graph to show 7.
+9. How do you create a delta neutral portfolio?
+10. Use numerical methods to get implied volatility?
